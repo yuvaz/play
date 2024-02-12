@@ -1,0 +1,11 @@
+.currencyBlock{
+    background: #ccc;
+    padding-bottom: 10px;
+}
+.currencySelect,
+.currencyEnter {
+    padding: 10px;
+}
+.currencyBlock .currencySelect select {
+    width:50%; 
+}

@@ -1,0 +1,11 @@
+input {
+    display: block;
+}
+
+.displayDetails{
+    border: 1px solid #ccc;
+    padding: 10px 15px;
+}
+.displayDetails p{
+    text-align: left;
+}
